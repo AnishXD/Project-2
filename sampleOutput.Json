@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Louryn Strampe",
+      "title": "Best Teacher Discounts (2023): Deals on School Supplies and Tech",
+      "description": "Ace the school year with special, teachers-only perks—like cheap software, phone plans, and classroom supplies.",
+      "url": "https://www.wired.com/story/best-teacher-discounts/",
+      "urlToImage": "https://media.wired.com/photos/64cd4dd15c6a967f9caf0d44/191:100/w_1280,c_limit/Teacher-Discounts-Gear-GettyImages-603298882.jpg",
+      "publishedAt": "2023-08-07T11:00:00Z",
+      "content": "We know teaching is a tough job, but we also know how important it is. And with so many out-of-pocket costs for supplies and resources, even small savings become crucial. We've rounded up a list of d… [+8032 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ryan Waniata",
+      "title": "Hisense U8K Review: A Great Screen For Well-Lit Rooms",
+      "description": "This bright Mini-LED TV gives much more expensive screens a run for their money.",
+      "url": "https://www.wired.com/review/hisense-u8k/",
+      "urlToImage": "https://media.wired.com/photos/64cd48892cc57777ec67f2cb/191:100/w_1280,c_limit/Hisense-U8K-Featured-Gear.jpg",
+      "publishedAt": "2023-08-07T11:00:00Z",
+      "content": "With great power comes great responsibility. Thats just one of the lessons I learned from Spider-Man over the years or, in this case, his various uncle Bens. I think any Ben Parker would be proud of … [+3240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Presented by Max Rushden with Ben Fisher, George Elek and Sanny Rudravajhala. Produced by Joel Grove and our executive producer is Danielle Stephens.",
+      "title": "EFL back with a bang and Arsenal shake City hoodoo - Football Weekly podcast",
+      "description": "Max Rushden is joined by Ben Fisher, George Elek and Sanny Rudravajhala as domestic football returnsRate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.Is it time…",
+      "url": "https://www.theguardian.com/football/audio/2023/aug/07/efl-arsenal-shake-city-hoodoo-football-weekly-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/2bf8decb8e11f87e81aaa27a290df856a9237a7e/0_17_4892_2936/master/4892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06a32b2521b853595ad492aa9dd79dff",
+      "publishedAt": "2023-08-07T12:17:18Z",
+      "content": "Rate, review, share on Apple Podcasts, Soundcloud, Audioboom, Mixcloud, Acast and Stitcher, and join the conversation on Facebook, Twitter and email.\r\nIs it time to rip up our pre-season Football Lea… [+628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Interviews by Chris Broughton",
+      "title": "‘It’s hard to keep a straight face opposite a Dalek on Viagra’: how we made The Tomorrow People",
+      "description": "‘We referenced the Troubles, child slavery and drugs and even had a teenage recruit blown up onscreen by Russian Intelligence. It felt important not to talk down to children’Working for the BBC in the early 70s, I made a Junior Points of View episode in which…",
+      "url": "https://www.theguardian.com/culture/2023/aug/07/how-we-made-the-tomorrow-people",
+      "urlToImage": "https://i.guim.co.uk/img/media/9ca28e4e675ee03580889a15d90e3216fc3d9382/0_113_3468_2080/master/3468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e606c8c6ddb3e5a22be7f31497bf86d4",
+      "publishedAt": "2023-08-07T13:26:45Z",
+      "content": "Roger Price, creator and writer\r\nWorking for the BBC in the early 70s, I made a Junior Points of View episode in which kids said they thought most BBC childrens programmes were patronising rubbish. S… [+6288 chars]"
+    }
+  ]
+}
